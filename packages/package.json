@@ -1,0 +1,23 @@
+{
+  "name": "xingorg1-js-utils",
+  "version": "1.1.0",
+  "description": "js utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingorg1/JuFengGuo.git"
+  },
+  "keywords": [
+    "js",
+    "utils"
+  ],
+  "author": "xing.org1^",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xingorg1/JuFengGuo/issues"
+  },
+  "homepage": "https://github.com/xingorg1/JuFengGuo#readme"
+}
